@@ -25,11 +25,16 @@
 <!-- Visão Geral -->
 ## 🔎 Visão geral
 
-**ControlAD** é uma poderosa ferramenta baseada em PowerShell, projetada para simplificar e automatizar o gerenciamento de ambientes do Active Directory (AD). Seja você um administrador de TI ou um engenheiro de sistemas, o **ControlAD** oferece umum shell interativo que auxilia na execução de tarefas comuns do AD de maneira rápida e eficiente.
+**ControlAD** é uma poderosa ferramenta baseada em PowerShell, projetada para simplificar e automatizar o gerenciamento de ambientes do Active Directory (AD). Seja você um administrador de TI ou um engenheiro de sistemas, o **ControlAD** oferece um shell interativo que auxilia na execução de tarefas comuns do AD de maneira rápida e eficiente.
 
-<!-- Printscreen do programa -->
+<!-- Thumbnail do vídeo -->
+
+### Vídeo de apresenação:
+
 <p align="center">
-  <img width="500" align="center" src="src/img/menu_principal.png">
+  <a href="https://www.youtube.com/watch?v=CwpZJyELo6k" target="_blank">
+    <img width="500" align="center" src="src/img/thumbnail.png" alt="Assista ao vídeo">
+  </a>
 </p>
 
 Com o **ControlAD**, você pode:
@@ -46,6 +51,11 @@ _Obs: Atualmente, o software conta com 27 funcionalidades – e expandindo!_
 ---
 
 ## Categorias e funcionalidades
+
+<!-- Printscreen do programa -->
+<p align="center">
+  <img width="500" align="center" src="src/img/menu_principal.png">
+</p>
 
 <!-- Gerenciamento de Usuários -->
 <details>
