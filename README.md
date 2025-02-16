@@ -29,7 +29,7 @@
 
 <!-- Thumbnail do vídeo -->
 
-### Vídeo de apresenação:
+### Vídeo de apresentação:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=CwpZJyELo6k" target="_blank">
